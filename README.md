@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**signifi-Shuichi-Itoh/signifi-Shuichi-Itoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shuichi Itoh.
 
-Here are some ideas to get you started:
+I work on internal systems and DX tools, mainly using TypeScript and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- TypeScript
+- Next.js / React
+- Firebase / Firestore
+- Google Cloud Platform
+
+## 🌱 Interests
+
+- Clean Architecture
+- Cloud infrastructure
+- Product development
+- Developer Experience (DX)
+
+## 🚀 Currently
+
+Building internal tools and systems that support better workflows and services.
