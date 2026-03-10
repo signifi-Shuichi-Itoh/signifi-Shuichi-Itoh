@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Shuichi Itoh.
+I'm Shuichi Itoh, a software engineer based in Japan.
 
 I work on internal systems and DX tools, mainly using TypeScript and cloud technologies.
 
